@@ -7,10 +7,31 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "algebra.html",
+    "href": "algebra.html",
+    "title": "Algebra",
+    "section": "",
+    "text": "This unit covers basic introduction of algebra and how to use graphs to convey environmental science."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "brencalculus",
+    "title": "Bren Calculus Workshop",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Congratulations on your acceptance and decision to attend the Bren School of Environmental Science and Management. This website will host course content for the Calculus Workshop during Orientation week. Use the tabs to access lectures, problems sets, and links to useful resources.\n\n\nNathaniel Grimes (nggrimes@ucsb.edu)\nOffice: BH 3007"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Bren Calculus Workshop",
+    "section": "",
+    "text": "Nathaniel Grimes (nggrimes@ucsb.edu)\nOffice: BH 3007"
+  },
+  {
+    "objectID": "algebra.html#problem-set-solutions",
+    "href": "algebra.html#problem-set-solutions",
+    "title": "Algebra",
+    "section": "Problem Set Solutions",
+    "text": "Problem Set Solutions\nWill be posted after lecture!"
   }
 ]

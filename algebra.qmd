@@ -1,0 +1,29 @@
+---
+title: "Algebra"
+---
+
+This unit covers basic introduction of algebra and how to use graphs to convey environmental science.
+
+# Lecture Materials
+
+[Download Copy of Algebra Lecture](lecture-algebra.html)
+
+**Contents**
+
+- Introductions
+
+- Team Assignments
+
+- Importance of Math in Environmental Science
+
+- Algebra
+
+- Graphing
+
+
+
+# Problem Set
+
+## Problem Set Solutions
+
+*Will be posted after lecture!*

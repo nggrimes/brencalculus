@@ -1,11 +1,22 @@
 ---
-title: "brencalculus"
+title: "Bren Calculus Workshop"
 ---
 
-This is a Quarto website.
+# Welcome incoming MESM!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Congratulations on your acceptance and decision to attend the Bren School of Environmental Science and Management. This website will host course content for the Calculus Workshop during Orientation week. Use the tabs to access lectures, problems sets, and links to useful resources.
 
-```{r}
-1 + 1
-```
+## Instructor
+
+Nathaniel Grimes (nggrimes@ucsb.edu)
+
+Office: BH 3007
+
+## Links
+
+## Objectives
+
+## Workshop Design
+
+## Schedule
+
