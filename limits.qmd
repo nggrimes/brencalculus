@@ -1,0 +1,23 @@
+---
+title: "Day 2: Limits"
+---
+
+## Lecture Materials
+
+**Contents**
+
+- Limits conceptually
+
+- How limits work
+
+- Limits into derivatives
+
+- Definition of derivatives
+
+[Download Copy of Limits Lecture](lecture-limits.html)
+
+## Problem Set
+
+## Problem Set Solution
+
+*Will be posted after lecture!*

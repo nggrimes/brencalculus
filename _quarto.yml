@@ -12,11 +12,19 @@ website:
         href: index.qmd
       - text: "Day 1: Algebra"
         href: algebra.qmd
+      - text: "Day 2: Limits"
+        href: limits.qmd
+      - text: "Day 3: Derivatives"
+        href: derv.qmd
+      - text: "Day 4: Integrals"
+        href: integral.qmd
+      - text: "Day 5: Differential Equation"
+        href: diffeq.qmd
 
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 

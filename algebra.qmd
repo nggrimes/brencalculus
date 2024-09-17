@@ -1,10 +1,10 @@
 ---
-title: "Algebra"
+title: "Day 1: Algebra"
 ---
 
 This unit covers basic introduction of algebra and how to use graphs to convey environmental science.
 
-# Lecture Materials
+## Lecture Materials
 
 [Download Copy of Algebra Lecture](lecture-algebra.html)
 
@@ -16,13 +16,13 @@ This unit covers basic introduction of algebra and how to use graphs to convey e
 
 - Importance of Math in Environmental Science
 
-- Algebra
+- Algebra review
 
 - Graphing
 
 
 
-# Problem Set
+## Problem Set
 
 ## Problem Set Solutions
 
