@@ -20,6 +20,8 @@ website:
         href: integral.qmd
       - text: "Day 5: Differential Equations"
         href: diffeq.qmd
+      - text: "Team Formation"
+        href: clustering-writeup.qmd
 
 
 format:

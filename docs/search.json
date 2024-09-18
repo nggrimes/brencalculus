@@ -1,92 +1,29 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "limits.html",
+    "href": "limits.html",
+    "title": "Day 2: Limits",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Contents\n\nLimits conceptually\nHow limits work\nLimits into derivatives\nDefinition of derivatives\n\nDownload Copy of Limits Lecture"
   },
   {
-    "objectID": "algebra.html",
-    "href": "algebra.html",
-    "title": "Day 1: Algebra",
+    "objectID": "limits.html#lecture-materials",
+    "href": "limits.html#lecture-materials",
+    "title": "Day 2: Limits",
     "section": "",
-    "text": "This unit covers basic introduction of algebra and how to use graphs to convey environmental science."
+    "text": "Contents\n\nLimits conceptually\nHow limits work\nLimits into derivatives\nDefinition of derivatives\n\nDownload Copy of Limits Lecture"
   },
   {
-    "objectID": "algebra.html#lecture-materials",
-    "href": "algebra.html#lecture-materials",
-    "title": "Day 1: Algebra",
-    "section": "Lecture Materials",
-    "text": "Lecture Materials\nDownload Copy of Algebra Lecture\nContents\n\nIntroductions\nTeam Assignments\nImportance of Math in Environmental Science\nAlgebra review\nGraphing"
-  },
-  {
-    "objectID": "algebra.html#problem-set",
-    "href": "algebra.html#problem-set",
-    "title": "Day 1: Algebra",
-    "section": "Problem Set",
-    "text": "Problem Set\nDownload Copy of Problem Set"
-  },
-  {
-    "objectID": "algebra.html#problem-set-solutions",
-    "href": "algebra.html#problem-set-solutions",
-    "title": "Day 1: Algebra",
-    "section": "Problem Set Solutions",
-    "text": "Problem Set Solutions\nWill be posted after lecture!"
-  },
-  {
-    "objectID": "derv.html",
-    "href": "derv.html",
-    "title": "Day 3: Derivatives",
-    "section": "",
-    "text": "Contents\n\nRules of Derivatives\nApplication of Derivatives\nWhy are Derivatives useful in environmental science\n\nDownload Copy of Derivatives Lecture"
-  },
-  {
-    "objectID": "derv.html#lecture-materials",
-    "href": "derv.html#lecture-materials",
-    "title": "Day 3: Derivatives",
-    "section": "",
-    "text": "Contents\n\nRules of Derivatives\nApplication of Derivatives\nWhy are Derivatives useful in environmental science\n\nDownload Copy of Derivatives Lecture"
-  },
-  {
-    "objectID": "derv.html#problem-set",
-    "href": "derv.html#problem-set",
-    "title": "Day 3: Derivatives",
-    "section": "Problem Set",
-    "text": "Problem Set\nDownload the Problem Set here"
-  },
-  {
-    "objectID": "derv.html#problem-set-solution",
-    "href": "derv.html#problem-set-solution",
-    "title": "Day 3: Derivatives",
-    "section": "Problem Set Solution",
-    "text": "Problem Set Solution\nWill be posted after lecture!"
-  },
-  {
-    "objectID": "diffeq.html",
-    "href": "diffeq.html",
-    "title": "Day 5: Differential Equations",
-    "section": "",
-    "text": "Under Construction"
-  },
-  {
-    "objectID": "diffeq.html#lecture-materials",
-    "href": "diffeq.html#lecture-materials",
-    "title": "Day 5: Differential Equations",
-    "section": "Lecture Materials",
-    "text": "Lecture Materials\nContents"
-  },
-  {
-    "objectID": "diffeq.html#problem-set",
-    "href": "diffeq.html#problem-set",
-    "title": "Day 5: Differential Equations",
+    "objectID": "limits.html#problem-set",
+    "href": "limits.html#problem-set",
+    "title": "Day 2: Limits",
     "section": "Problem Set",
     "text": "Problem Set"
   },
   {
-    "objectID": "diffeq.html#problem-set-solution",
-    "href": "diffeq.html#problem-set-solution",
-    "title": "Day 5: Differential Equations",
+    "objectID": "limits.html#problem-set-solution",
+    "href": "limits.html#problem-set-solution",
+    "title": "Day 2: Limits",
     "section": "Problem Set Solution",
     "text": "Problem Set Solution\nWill be posted after lecture!"
   },
@@ -133,6 +70,132 @@
     "text": "Thursday September 19, 2024 12:00 P.M. - 2:00 P.M.: Introduction, Algebra and pre-calculus review, e.g. exponents and logarithms\nFriday September 20, 2024 9:00 A.M. - 11:00 A.M.: Graphing, Limits, and Fundamentals of Calculus\nFriday September 20, 2024 12:00 P.M. - 2:00 P.M.: Rules and Applications of derivatives\nMonday September 23, 2024 9:00 A.M. - 11:00 A.M.: Integration\nTuesday September 24, 2024 12:30 P.M. - 2:30 P.M.: Differential Equations and Computational Calculus, i.e. let a computer do the work"
   },
   {
+    "objectID": "derv.html",
+    "href": "derv.html",
+    "title": "Day 3: Derivatives",
+    "section": "",
+    "text": "Contents\n\nRules of Derivatives\nApplication of Derivatives\nWhy are Derivatives useful in environmental science\n\nDownload Copy of Derivatives Lecture"
+  },
+  {
+    "objectID": "derv.html#lecture-materials",
+    "href": "derv.html#lecture-materials",
+    "title": "Day 3: Derivatives",
+    "section": "",
+    "text": "Contents\n\nRules of Derivatives\nApplication of Derivatives\nWhy are Derivatives useful in environmental science\n\nDownload Copy of Derivatives Lecture"
+  },
+  {
+    "objectID": "derv.html#problem-set",
+    "href": "derv.html#problem-set",
+    "title": "Day 3: Derivatives",
+    "section": "Problem Set",
+    "text": "Problem Set\nDownload the Problem Set here"
+  },
+  {
+    "objectID": "derv.html#problem-set-solution",
+    "href": "derv.html#problem-set-solution",
+    "title": "Day 3: Derivatives",
+    "section": "Problem Set Solution",
+    "text": "Problem Set Solution\nWill be posted after lecture!"
+  },
+  {
+    "objectID": "algebra.html",
+    "href": "algebra.html",
+    "title": "Day 1: Algebra",
+    "section": "",
+    "text": "This unit covers basic introduction of algebra and how to use graphs to convey environmental science."
+  },
+  {
+    "objectID": "algebra.html#lecture-materials",
+    "href": "algebra.html#lecture-materials",
+    "title": "Day 1: Algebra",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nDownload Copy of Algebra Lecture\nContents\n\nIntroductions\nTeam Assignments\nImportance of Math in Environmental Science\nAlgebra review\nGraphing"
+  },
+  {
+    "objectID": "algebra.html#problem-set",
+    "href": "algebra.html#problem-set",
+    "title": "Day 1: Algebra",
+    "section": "Problem Set",
+    "text": "Problem Set\nDownload Copy of Problem Set"
+  },
+  {
+    "objectID": "algebra.html#problem-set-solutions",
+    "href": "algebra.html#problem-set-solutions",
+    "title": "Day 1: Algebra",
+    "section": "Problem Set Solutions",
+    "text": "Problem Set Solutions\nWill be posted after lecture!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "clustering-writeup.html",
+    "href": "clustering-writeup.html",
+    "title": "How groups are assigned for the Calculus Workshop",
+    "section": "",
+    "text": "library(tidyverse)\nlibrary(googlesheets4)"
+  },
+  {
+    "objectID": "clustering-writeup.html#introduction",
+    "href": "clustering-writeup.html#introduction",
+    "title": "How groups are assigned for the Calculus Workshop",
+    "section": "Introduction",
+    "text": "Introduction\nStudents are assigned to groups to boost team building in the Bren Calculus Workshop. The process is included here with personal information masked for transparency and to continue to show students the power of R and data science. Skills greatly needed to succeed at Bren."
+  },
+  {
+    "objectID": "clustering-writeup.html#data-import",
+    "href": "clustering-writeup.html#data-import",
+    "title": "How groups are assigned for the Calculus Workshop",
+    "section": "Data import",
+    "text": "Data import\nFirst we need to get the data in from the Google form responses. For that we use the googlesheets4 package. Normally you have to connect it to your gmail account the first time you use it, but I’ve already done that behind the scences. All we need to do is provide the google sheet url link.\n\ndata&lt;-read_sheet(\"url to google sheet\") %&gt;% \n  janitor::clean_names() %&gt;% \n  select(-timestamp)"
+  },
+  {
+    "objectID": "clustering-writeup.html#constrained-k-means-clustering",
+    "href": "clustering-writeup.html#constrained-k-means-clustering",
+    "title": "How groups are assigned for the Calculus Workshop",
+    "section": "Constrained K-means clustering",
+    "text": "Constrained K-means clustering\nK-means clustering is machine learning algorithm that groups objects of the nearest type to each other. Here, I used constrained k-means clustering as I need to have set sizes of groups to randomly sample from. The basic idea is that everyone’s responses to the questionnaire should place them similarly along multiple dimensions. K-means will find those groups for me so I can then randomly pull out of those groups to make teams with at least one person comfortable with math, another not so comfortable, and the range in between.\nYou will learn all about this procedure in ESM 244 (with me as instructor!)\nThe first step in the cleaning process is to turn all those funny category names into numeric values for the algorithm to group. I use a likert scale to approximate the responses numerically.\n\ncolnames(data)&lt;-c(\"specialization\",\"major\",\"math_level\",\"use\",\"relationship\",\"name\")\n\n\nlikert&lt;-data %&gt;% \n  mutate(specialization=case_when(\n    specialization==\"Business and Sustainability\"~1,\n    specialization==\"Environmental Policy\"~2,\n    specialization==\"Coastal Resources and Management\"~3,\n    specialization==\"Energy and Climate\"~5,\n    specialization==\"Water Resources Management\"~4,\n    specialization==\"Pollution Prevention and Remediation\"~6,\n    specialization==\"Conservation Planning\"~7\n  )) %&gt;% \n  mutate(major=case_when(\n    major==\"Humanities (History, Literature, Art)\"~1,\n    major==\"Business\"~2,\n    major==\"Political Science\"~3,\n    major==\"Environmental Science\"~4,\n    major==\"STEM (Biology, Chemistry, Physics)\"~5,\n    major==\"Economics\"~6,\n    major==\"Computer Science\"~7\n  )) %&gt;% \n  mutate(math_level=case_when(\n    math_level==\"Algebra\"~1,\n    math_level==\"Trigonometry\"~2,\n    math_level==\"Calculus 1\"~3,\n    math_level==\"Calculus 2\"~4,\n    math_level==\"Calculus 3 and beyond (Diff eq, real analysis, if you know what those are click this option)\"~5\n  )) %&gt;% \n  mutate(use=case_when(\n    use==\"Less than a year\"~1,\n    use==\"1-2 years ago\"~2,\n    use==\"3-5 years ago\"~3,\n    use==\"Not since the dark times (5+ years)\"~4\n  )) %&gt;% \n  mutate(relationship=case_when(\n    relationship==\"My mortal enemy\"~1,\n    relationship==\"Your crazy, high key racist uncle you have to invite to Thanksgiving\"~2,\n    relationship==\"The friend of a friend who's name you can never remember\"~3,\n    relationship==\"Respectful co-worker you can have a beer with\"~4,\n    relationship==\"My best friend!\"~5\n  ))\n\ndf&lt;-likert %&gt;% \n  select(-name) %&gt;% \n  as.matrix() %&gt;% \n  unname()\n\nNow that all that mess is done, for this demonstration I will create random people with random responses to make sure the actual information of the students is protected.\n\n## Practice data_frame with a \"fully\" populated sample\n\nset.seed(1)\nprac&lt;-data.frame(spec=sample.int(7,81,replace=TRUE),major=sample.int(7,81,replace=TRUE),level=sample.int(5,81,replace=TRUE),use=sample.int(4,81,replace=TRUE),rel=sample.int(5,81,replace=TRUE))\n\ndf&lt;-prac %&gt;% \n  as.matrix() %&gt;% \n  unname()\n\nNow we can add some settings on how big we want the groups to be or how many groups we want. For example if out a class of 80 we want group sizes of 4 we would need to tell the algorithm to make 20 groups. Since there might be an uneven number (like 83) we’ll tweak the max allowed in a group. For balanced sorting all groups must have at least one representative from each group. So the minimum size will be a rounding of the number of responses.\n\ngroup_size=5\ngroups=floor(length(df[,1])/group_size)\n\nUnfortunately, the next step requires us to step away from R because no one has developed an appropriate package for the algorithm we’re trying to use. Luckily for us, Quarto with reticulate makes running python and R code in the same workflow relatively easy. First we transfer the needed data from the R side to python suitable frames. Next we need to bring in the packages python needs to use for the algorithm. This is just like loading library(tidyverse) in R. Python also lets us name the package for our own personal uses. Personally, I rarely deviate from the authors recommendation. Next we set up the algorithm settings. Then call the algorithm with a specific call much like we would in a TidyModels set up in R. We store the output in labels which is a vector of [0:4] of each students classification1.\n\nx=r.df\ngroup=int(r.groups)\nsize=int(r.group_size)\n\n\nfrom k_means_constrained import KMeansConstrained\n\nimport numpy as np\n\nclf=KMeansConstrained(\n  n_clusters=size,\n  size_min=group,\n  size_max=group+2,\n  random_state=0\n)\n\n\n\nlabels=clf.fit_predict(x)\n\nNext, we bring the labels from python to R with a quick reticulate::py call. To add true randomness into the assignments, I make a function to mix up the names of each person in the clusters, and then apply to all using purrr:map. From there it’s a matter of converting the list into a usable dataframe while maintaining all the names. List data manipulation is almost more of an art than a science. Do whatever you need to do to make it work for your problem. Here I want to keep a general structure because I don’t know how many people will fill out the form beforehand.\n\nlibrary(reticulate)\nclus_labels&lt;-py$labels\n\nprac$labels=clus_labels+1 ## REPLACE PRAC WITH LIKERT BY DEMO  Keep the add 1 becuase of python base 0\nprac$name=stringi::stri_rand_strings(length(prac$labels),6)\n\nprac\n\n   spec major level use rel labels   name\n1     1     1     1   1   1      5 OqkXsS\n2     4     1     2   3   4      1 0jiBeX\n3     7     7     3   1   5      3 KdphL7\n4     1     6     4   2   4      2 Ovnlxz\n5     2     4     1   2   5      1 b1KH72\n6     5     7     3   2   3      3 MKAcOx\n7     7     5     5   4   3      3 eKC7zN\n8     3     5     3   3   1      2 YjrZ0u\n9     6     4     4   1   1      4 lN53op\n10    2     6     2   3   2      2 e8Ljuh\n11    3     5     1   1   5      1 EdHx9P\n12    3     4     4   1   1      2 F5pWfP\n13    1     4     1   1   3      5 qjLwe2\n14    5     1     4   3   2      4 aP4Wxh\n15    5     5     2   1   4      1 YFmepe\n16    2     5     5   3   1      2 TUNRov\n17    6     7     2   2   3      3 9kyyLO\n18    6     6     2   1   1      3 w6vLXX\n19    2     1     2   4   5      5 iP9Lc3\n20    7     1     3   4   4      4 qDX8Kc\n21    1     7     1   3   2      2 FdUwrM\n22    7     7     2   3   5      3 JpSJ64\n23    5     3     3   4   5      1 gfuIvC\n24    5     6     3   4   3      3 nD1rgw\n25    1     2     3   2   2      5 fqMOZ5\n26    1     2     3   4   4      5 CakrNn\n27    6     3     5   1   1      4 3cMauC\n28    5     6     3   3   1      3 MflWpW\n29    5     2     1   2   1      4 VQM7IH\n30    2     7     2   4   3      2 lm8VbV\n31    2     7     4   4   3      2 NQ0u4V\n32    6     4     2   1   5      1 obQYmA\n33    1     3     2   4   2      5 yTvtkf\n34    4     5     4   2   5      1 e4QWwi\n35    7     2     5   3   4      4 iT7mRQ\n36    1     2     1   4   2      5 19Ql0b\n37    4     1     5   1   2      4 uhGqKZ\n38    3     3     5   4   2      4 Q3jXk3\n39    6     3     5   4   4      4 iIHp52\n40    2     2     4   2   1      5 LXbGCN\n41    2     7     4   2   1      2 Tp7fUt\n42    6     2     4   2   1      4 Y7RBQD\n43    7     5     2   1   5      1 xRm9rC\n44    4     2     1   1   1      5 BAZjsh\n45    4     5     3   4   3      3 To1zdQ\n46    4     4     1   4   3      1 1kCzui\n47    2     7     1   1   3      2 jTrAcI\n48    4     7     4   1   3      2 S2B3wL\n49    1     5     5   2   1      2 WcEVoL\n50    7     4     1   1   4      1 r2ykGf\n51    6     6     3   4   4      3 LwK1LO\n52    1     1     4   1   5      5 MxNXvu\n53    4     3     5   4   4      4 FiLYko\n54    1     2     4   3   1      5 r2DMIj\n55    7     3     1   2   5      1 huqmOZ\n56    6     3     1   3   5      1 4sxVv8\n57    2     1     5   1   2      5 EUTQ2d\n58    7     5     5   3   4      3 iLwk3y\n59    3     6     1   2   3      2 D2GiFE\n60    2     6     5   1   1      2 1Gg23O\n61    6     6     4   4   5      3 Udi4Qy\n62    6     4     2   4   5      1 oDU0GS\n63    2     4     2   1   3      5 jzKwxt\n64    5     1     1   4   4      1 UmngaK\n65    2     5     5   2   1      2 0450K7\n66    6     5     5   3   3      3 a20Apl\n67    6     6     2   3   3      3 GBD339\n68    6     1     5   3   4      4 42Wmh4\n69    1     3     2   3   1      5 1R9ihs\n70    3     6     4   2   1      2 Kyz2to\n71    3     3     2   4   3      5 iHVQbv\n72    6     7     5   1   4      3 EGjkvS\n73    7     6     5   4   2      3 rJCv3P\n74    7     3     4   2   4      4 SPfkuo\n75    4     3     4   1   5      4 5BdsaG\n76    6     4     1   1   3      1 sBU0MR\n77    7     1     2   3   4      4 7cIEMt\n78    3     1     4   2   3      4 zjzXQx\n79    1     4     1   4   1      5 941bhn\n80    4     2     1   3   5      1 89zOBT\n81    5     6     3   3   3      3 XKzW8R\n\n\nCheckout the list of “students” above. If you squint, you can see how some labels seem to match relatively well. For example the 1st student as 1s across all input and was put into group 5 (labels=5). The next member of group 5, student 13, also has quite a bit of 1 survery responses so it makes sense that they should be grouped together.\nLet’s check to see if the groups are balanced with similar number of students in each.\n\nprac %&gt;% \n  group_by(labels) %&gt;% \n  summarize(n=n())\n\n# A tibble: 5 × 2\n     labels     n\n  &lt;dbl[1d]&gt; &lt;int&gt;\n1         1    16\n2         2    16\n3         3    17\n4         4    16\n5         5    16\n\n\nAll the groups are well balanced. Next I make a function to mix up the students by sampling from each group the required number of times. Because of some potential inbalances, I have to fill empty spaces with NAs.\n\n## mix up function\n\nmix&lt;-function(data,group){\n  df_filter&lt;-data %&gt;% \n      filter(labels==group)\n    \n  out=sample(df_filter$name,size=length(df_filter$labels))\n  \n  return(out)\n}\n\n\ngroup_list&lt;-1:5 |&gt;\n  map(\\(x) mix(prac,x))\n  \n\ntdf&lt;-as.data.frame(t(plyr::ldply(group_list,rbind)))\n\n#Adjust colnames to show teammate\ncolnames(tdf)&lt;-c(paste0(\"teammate\",1:group_size))\n\n\nna_vec&lt;-unlist(tdf[(groups+1):(length(tdf[,1])),]) %&gt;% \n  na.omit()\n\nna_vec\n\nteammate3 \n \"eKC7zN\" \nattr(,\"na.action\")\nteammate1 teammate2 teammate4 teammate5 \n        1         2         4         5 \nattr(,\"class\")\n[1] \"omit\"\n\nadd_vec&lt;-c(na_vec,rep(\"NA\",times=(groups-length(na_vec))))\nadd_vec\n\nteammate3                                                                       \n \"eKC7zN\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\" \n                                                                                \n     \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\"      \"NA\" \n\ntdf=tdf[1:groups,]\n\n\ntdf$teammate6&lt;-add_vec\n\ntdf\n\n   teammate1 teammate2 teammate3 teammate4 teammate5 teammate6\n1     oDU0GS    WcEVoL    LwK1LO    Q3jXk3    fqMOZ5    eKC7zN\n2     EdHx9P    1Gg23O    a20Apl    42Wmh4    r2DMIj        NA\n3     1kCzui    jTrAcI    w6vLXX    FiLYko    BAZjsh        NA\n4     huqmOZ    FdUwrM    JpSJ64    5BdsaG    qjLwe2        NA\n5     e4QWwi    0450K7    KdphL7    VQM7IH    EUTQ2d        NA\n6     89zOBT    Kyz2to    rJCv3P    iT7mRQ    MxNXvu        NA\n7     YFmepe    lm8VbV    GBD339    zjzXQx    jzKwxt        NA\n8     r2ykGf    YjrZ0u    iLwk3y    Y7RBQD    iHVQbv        NA\n9     4sxVv8    e8Ljuh    XKzW8R    7cIEMt    941bhn        NA\n10    sBU0MR    Tp7fUt    9kyyLO    uhGqKZ    LXbGCN        NA\n11    gfuIvC    TUNRov    Udi4Qy    qDX8Kc    yTvtkf        NA\n12    xRm9rC    S2B3wL    nD1rgw    aP4Wxh    1R9ihs        NA\n13    UmngaK    NQ0u4V    To1zdQ    lN53op    OqkXsS        NA\n14    0jiBeX    Ovnlxz    EGjkvS    iIHp52    iP9Lc3        NA\n15    b1KH72    D2GiFE    MKAcOx    3cMauC    19Ql0b        NA\n16    obQYmA    F5pWfP    MflWpW    SPfkuo    CakrNn        NA\n\n\nVoila! At the end we have a random, but skill balanced mixture of students in the number of groups that I want."
+  },
+  {
+    "objectID": "clustering-writeup.html#footnotes",
+    "href": "clustering-writeup.html#footnotes",
+    "title": "How groups are assigned for the Calculus Workshop",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nReminder Python uses base 0. So the first index starts at 0 instead of 1 like in R↩︎"
+  },
+  {
+    "objectID": "diffeq.html",
+    "href": "diffeq.html",
+    "title": "Day 5: Differential Equations",
+    "section": "",
+    "text": "Under Construction"
+  },
+  {
+    "objectID": "diffeq.html#lecture-materials",
+    "href": "diffeq.html#lecture-materials",
+    "title": "Day 5: Differential Equations",
+    "section": "Lecture Materials",
+    "text": "Lecture Materials\nContents"
+  },
+  {
+    "objectID": "diffeq.html#problem-set",
+    "href": "diffeq.html#problem-set",
+    "title": "Day 5: Differential Equations",
+    "section": "Problem Set",
+    "text": "Problem Set"
+  },
+  {
+    "objectID": "diffeq.html#problem-set-solution",
+    "href": "diffeq.html#problem-set-solution",
+    "title": "Day 5: Differential Equations",
+    "section": "Problem Set Solution",
+    "text": "Problem Set Solution\nWill be posted after lecture!"
+  },
+  {
     "objectID": "integral.html",
     "href": "integral.html",
     "title": "Day 4: Integrals",
@@ -157,34 +220,6 @@
     "objectID": "integral.html#problem-set-solution",
     "href": "integral.html#problem-set-solution",
     "title": "Day 4: Integrals",
-    "section": "Problem Set Solution",
-    "text": "Problem Set Solution\nWill be posted after lecture!"
-  },
-  {
-    "objectID": "limits.html",
-    "href": "limits.html",
-    "title": "Day 2: Limits",
-    "section": "",
-    "text": "Contents\n\nLimits conceptually\nHow limits work\nLimits into derivatives\nDefinition of derivatives\n\nDownload Copy of Limits Lecture"
-  },
-  {
-    "objectID": "limits.html#lecture-materials",
-    "href": "limits.html#lecture-materials",
-    "title": "Day 2: Limits",
-    "section": "",
-    "text": "Contents\n\nLimits conceptually\nHow limits work\nLimits into derivatives\nDefinition of derivatives\n\nDownload Copy of Limits Lecture"
-  },
-  {
-    "objectID": "limits.html#problem-set",
-    "href": "limits.html#problem-set",
-    "title": "Day 2: Limits",
-    "section": "Problem Set",
-    "text": "Problem Set"
-  },
-  {
-    "objectID": "limits.html#problem-set-solution",
-    "href": "limits.html#problem-set-solution",
-    "title": "Day 2: Limits",
     "section": "Problem Set Solution",
     "text": "Problem Set Solution\nWill be posted after lecture!"
   }
