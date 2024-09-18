@@ -24,6 +24,8 @@ This unit covers basic introduction of algebra and how to use graphs to convey e
 
 ## Problem Set
 
+[Download Copy of Problem Set](ps_algebra.html)
+
 ## Problem Set Solutions
 
 *Will be posted after lecture!*

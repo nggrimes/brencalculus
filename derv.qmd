@@ -16,6 +16,8 @@ title: "Day 3: Derivatives"
 
 ## Problem Set
 
+[Download the Problem Set here](ps/ps_derivative)
+
 ## Problem Set Solution
 
 *Will be posted after lecture!*

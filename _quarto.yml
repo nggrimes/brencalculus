@@ -18,7 +18,7 @@ website:
         href: derv.qmd
       - text: "Day 4: Integrals"
         href: integral.qmd
-      - text: "Day 5: Differential Equation"
+      - text: "Day 5: Differential Equations"
         href: diffeq.qmd
 
 
