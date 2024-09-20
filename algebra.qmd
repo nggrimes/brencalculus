@@ -10,17 +10,15 @@ This unit covers basic introduction of algebra and how to use graphs to convey e
 
 **Contents**
 
-- Introductions
+-   Introductions
 
-- Team Assignments
+-   Team Assignments
 
-- Importance of Math in Environmental Science
+-   Importance of Math in Environmental Science
 
-- Algebra review
+-   Algebra review
 
-- Graphing
-
-
+-   Graphing
 
 ## Problem Set
 
@@ -28,4 +26,4 @@ This unit covers basic introduction of algebra and how to use graphs to convey e
 
 ## Problem Set Solutions
 
-*Will be posted after lecture!*
+[Solutions](ps/ps_algebra_solution.html)
