@@ -6,18 +6,18 @@ title: "Day 3: Derivatives"
 
 **Contents**
 
-- Rules of Derivatives
+-   Rules of Derivatives
 
-- Application of Derivatives
+-   Application of Derivatives
 
-- Why are Derivatives useful in environmental science
+-   Why are Derivatives useful in environmental science
 
 [Download Copy of Derivatives Lecture](lecture-derivative.html)
 
 ## Problem Set
 
-[Download the Problem Set here](ps/ps_derivative)
+[Download the Problem Set here](ps/ps_derivative.pdf)
 
 ## Problem Set Solution
 
-*Will be posted after lecture!*
+[Solutions](ps/ps_derivative_solutions.pdf)

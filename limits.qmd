@@ -6,18 +6,19 @@ title: "Day 2: Limits"
 
 **Contents**
 
-- Limits conceptually
+-   Limits conceptually
 
-- How limits work
+-   How limits work
 
-- Limits into derivatives
+-   Limits into derivatives
 
-- Definition of derivatives
+-   Definition of derivatives
 
 [Download Copy of Limits Lecture](lecture-limits.html)
 
 ## Problem Set
 
+[Download the Problem Set here](ps/ps_limits.pdf)
 ## Problem Set Solution
 
-*Will be posted after lecture!*
+[Solutions](ps/ps_limits_solution.pdf)
