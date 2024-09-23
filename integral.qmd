@@ -6,13 +6,15 @@ title: "Day 4: Integrals"
 
 **Contents**
 
-- Natural Logarithms
+-   Natural Logarithms
 
-- Idea of Integrals
+-   Idea of Integrals
 
-- Rules of Integrals
+-   Rules of Integrals
 
-- How do we use integrals in environmental science
+-   How do we use integrals in environmental science
+
+[**Download Copy of Lecture**](lecture-integral.html)
 
 ## Problem Set
 
