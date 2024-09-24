@@ -2,16 +2,19 @@
 title: "Day 5: Differential Equations"
 ---
 
-***Under Construction***
-
 ## Lecture Materials
 
 **Contents**
 
+[Download Copy of Lecture Slides Here](lecture-diffeq.html)
+
+## Numerical Calculus Worksheet
+
+Use this worksheet to participate and follow along during the coding session of class. Access the document then click the source button and copy and paste the code into your RStudio console.
 
 
-## Problem Set
+[Student Worksheet](ps/numerical-calc-student-sheet.html)
 
-## Problem Set Solution
+## Answer Key to Numerical Calculus Worksheet
 
-*Will be posted after lecture!*
+**Will be posted after class**
